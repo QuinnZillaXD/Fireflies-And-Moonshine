@@ -1,4 +1,4 @@
-![Screenshot 3](cover.png)
+![Screenshot 3](screenshots/cover.png)
 
 # Fireflies-And-Moonshine
 A country fried love story.
