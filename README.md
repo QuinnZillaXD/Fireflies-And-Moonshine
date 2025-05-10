@@ -1,3 +1,5 @@
+![Screenshot 3](cover.png)
+
 # Fireflies-And-Moonshine
 A country fried love story.
 
